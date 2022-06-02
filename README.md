@@ -11,8 +11,11 @@ Contents Flowchart Program :
 5. Conclusion
 6. Recommendation
 
+
 1. Business Problem Understanding :
+
 - Context
+
 syarah company merupakan perusahaan yang bergerak dalam bidang jual beli mobil yang berlokasi Riyadh, Ar Riyad, Saudi Arabia dan merupakan bagian dari Taxi and Limousine Service Industry. syarah company menawarkan pengalaman yang berbeda dalam melakukan jual beli mobil melalui digital platform yaitu syarah.com. syarah.com sudah beroperasi sejak tahun 2015 dengan wilayah operasinya tersebar di saudi arabia dan telah melakukan penjualan senilai $835,725.
 
 syarah.com menawarkan berbagai jenis mobil sesuai kebutuhan pelanggan. Pelanggan dapat memilih mobil sesuai keinginannya dengan mencocokkan spesifikasi yang diinginkan dan harga yang sesuai dengan yang dimiliki pelanggan. Pada web syarah.com telah disediakan banyak fitur dari setiap pilihan mobil seperti brand name, model, manufacturing year, origin, the color of the car, options, capacity of the engine, type of fuel, transmission type, the mileage that the car covered, region price, and negotiable. Tentu saja harga sebuah mobil akan ditentukan oleh berbagai fitur yang ada tersebut. Semakin tinggi spesifikasi seperti kondisi mobil sehat, usia mobil tergolong muda, fitur mobil sudah modern teknologi tentu saja akan semakin mahal. Penentuan harga mobil menjadi penting bagi perusahaan agar dapat menarik banyak perhatian pembeli, jangan sampai mobil dengan spesifikasi biasa saja dijual dengan harga yang mahal. Karena pada umumnya pelanggan dengan kategori kelas menengah hingga bawah yang dilihat pertama yaitu harganya baru spesifikasi menyesuaikan, berbeda dengan kelas atas yang melihat mobil dari spesifikasi dan subjektif kesukaan baru harga menyesuaikan. Penetapan harga ini menjadi sangat krusial bagi perusahaan karena akan berdampak langsung pada pendapatan perusahaan kedepannya.
